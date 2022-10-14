@@ -72,8 +72,8 @@ global.APIs = {
 /*Apikey*/
 global.APIKeys = {
  'https://api.neoxr.my.id' : 'JeJU827J',
- 'https://api.lolhuman.xyz' : 'sonelganz',
- 'https://api.xteam.xyz' : 'NezukoTachibana281207',
+ 'https://api.lolhuman.xyz' : '06aef819aecca0490185729d',
+ 'https://api.xteam.xyz' : 'Ef6114e6bc365191',
  'https://api.zeks.xyz' : 'apivinz',
  'https://hardianto-chan.herokuapp.com' : 'hardianto',
  'https://hardianto.xyz' : 'hardianto',
@@ -88,17 +88,17 @@ global.APIKeys = {
 }
 
 /*Lolkey*/
-global.lolkey = 'f48860d8753901c5c28740dd'
+global.lolkey = '06aef819aecca0490185729d'
 /*Xteam*/
-global.xteamkey = 'NezukoTachibana281207'
+global.xteamkey = 'Ef6114e6bc365191'
 
 /*List Lolkey
-'sonelganz'
-'327a6596e4c4baa20c756132'
+'06aef819aecca0490185729d'
+'Ef6114e6bc365191'
 */
 
 /*Number*/
-global.nomorbot = '6283142481156'
+global.nomorbot = '6283836484665'
 global.nomorown = '6283152910041' 
 global.namebot = 'PyBot-𝐌𝐝'
 global.nameown = '「 Oᴡɴᴇʀ 」'
